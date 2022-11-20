@@ -1,0 +1,9 @@
+## Interface: 100002
+## Title: Roboto Font
+## Author: Siebe
+## Version: 1.0.0
+## Notes: Adds the Roboto font for use in addons that use SharedMedia.
+## X-Category: Interface Enhancements
+## OptionalDeps: LibSharedMedia-3.0
+
+RobotoFont.lua
